@@ -1,4 +1,4 @@
-[](<Final Value Program_20241113_184044_669_13.jpg>)
+![](<Final Value Program_20241113_184044_669_13.jpg>)
 
 Penjelasan Program
 
