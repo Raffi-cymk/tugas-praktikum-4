@@ -1,3 +1,5 @@
+[](<Final Value Program_20241113_184044_669_13.jpg>)
+
 Penjelasan Program
 
 Program ini menggunakan loop while agar bisa terus meminta input data.
