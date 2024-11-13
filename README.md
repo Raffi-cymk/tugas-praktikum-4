@@ -1,4 +1,5 @@
 Penjelasan Program
+
 Program ini menggunakan loop while agar bisa terus meminta input data.
 Untuk setiap data, program meminta nilai tugas, UTS, dan UAS, lalu menghitung nilai akhir.
 Setelah data dimasukkan, pengguna ditanya apakah ingin menambahkan data lagi. Jika jawabannya 't', loop berhenti.
